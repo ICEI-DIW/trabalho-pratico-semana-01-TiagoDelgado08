@@ -7,6 +7,6 @@ Nome: Tiago Delgado Rocha
 Matricula: 885375
 
 ## Tela de inspeção com navegador
-!(tela2.png)
+![Inspeção no navegador](tela2.png)
 ## Tela de projeto no Replit
-!(tela1.png)
+![Projeto no Replit](tela1.png)
